@@ -1,0 +1,3 @@
+#  ord() use for printing ascii value
+print(ord('A'))
+# chr() function is use to print no. to ascii characters
